@@ -1,2 +1,5 @@
 # hello-world
-my first
+
+my first repository 
+
+I love 🐶 and ☕
